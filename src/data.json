@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Juan",
+        "last_name" : "Garcia",
+        "avatar" : "https://icon-library.net/images/avatar-icon-images/avatar-icon-images-4.jpg"
+    },
+    {
+        "name" : "Diego",
+        "last_name" : "Brando",
+        "avatar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQb_sJKWw_q9tobdfkHLUCvYj3pNVd4EOV8XTxGRhSDpnagZZIs"
+    },
+    {
+        "name" : "Jonathan",
+        "last_name" : "Chariot",
+        "avatar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdMNoTQoAnsN1wa0VAmhsvLIG4PSwr8O-_10clzcv5tcPdBJbj"
+    }
+]
